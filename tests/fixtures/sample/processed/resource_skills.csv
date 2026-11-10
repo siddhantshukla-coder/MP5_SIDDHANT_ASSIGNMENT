@@ -1,0 +1,7 @@
+resource,skill,level,source_url,retrieved_on,source_type,source_locator,entry_method,raw_file
+nptel-intro-ml,supervised-learning,working,https://archive.nptel.ac.in/content/syllabus_pdf/106106139.pdf,2026-11-10,manual,Mapped from the resource's syllabus/description,manual-curation,manual/resource_skills.csv
+nptel-intro-ml,unsupervised-learning,working,https://archive.nptel.ac.in/content/syllabus_pdf/106106139.pdf,2026-11-10,manual,Mapped from the resource's syllabus/description,manual-curation,manual/resource_skills.csv
+nptel-prob-stats,probability-statistics,working,https://archive.nptel.ac.in/content/syllabus_pdf/111105090.pdf,2026-11-10,manual,Mapped from the resource's syllabus/description,manual-curation,manual/resource_skills.csv
+nptel-prob-stats,statistical-inference,working,https://archive.nptel.ac.in/content/syllabus_pdf/111105090.pdf,2026-11-10,manual,Mapped from the resource's syllabus/description,manual-curation,manual/resource_skills.csv
+openintro-stats,statistical-inference,intro,https://openintro.org/license,2026-11-10,manual,Mapped from the resource's syllabus/description,manual-curation,manual/resource_skills.csv
+openintro-stats,probability-statistics,intro,https://openintro.org/license,2026-11-10,manual,Mapped from the resource's syllabus/description,manual-curation,manual/resource_skills.csv

@@ -1,0 +1,26 @@
+[
+  {
+    "course": "DSL201",
+    "other": "MAL100",
+    "percent": 10,
+    "other_in_catalogue": true,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.1; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/course_contents_excerpt.txt"
+  },
+  {
+    "course": "DSL201",
+    "other": "MAL201",
+    "percent": 10,
+    "other_in_catalogue": false,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.1; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/course_contents_excerpt.txt"
+  }
+]

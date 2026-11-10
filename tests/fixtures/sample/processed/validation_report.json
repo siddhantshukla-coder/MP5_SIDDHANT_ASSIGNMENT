@@ -1,0 +1,18 @@
+[
+  {
+    "check": "below_brief_minimum",
+    "severity": "warning",
+    "entity": "courses",
+    "id": "-",
+    "where": "-",
+    "message": "5 courses (< 15 required)"
+  },
+  {
+    "check": "below_brief_minimum",
+    "severity": "warning",
+    "entity": "resources",
+    "id": "-",
+    "where": "-",
+    "message": "3 resources (< 30 required)"
+  }
+]

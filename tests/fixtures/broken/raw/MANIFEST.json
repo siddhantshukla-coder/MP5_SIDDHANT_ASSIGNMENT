@@ -1,0 +1,44 @@
+{
+  "files": {
+    "manual/course_skills.csv": {
+      "sha256": "ab345031677516d1e0d5f47348669c15fc728b1f494bb45abf8feca31c463ff4",
+      "bytes": 2400
+    },
+    "manual/disciplines.csv": {
+      "sha256": "c212cf11d75e059743293118f8d68871a7c8aee6fa03983ec29165c90e3af0e5",
+      "bytes": 2401
+    },
+    "manual/modules.csv": {
+      "sha256": "c976e3cdbe9372ca998b0e9205ab09ea029bc999ceb86003dbfd5a1e0d00bf3d",
+      "bytes": 894
+    },
+    "manual/programme_courses.csv": {
+      "sha256": "ba03f04b09a646a103c9facac7b2d2e637581adab3402bddf91360cdd1ca7f5f",
+      "bytes": 1712
+    },
+    "manual/resource_skills.csv": {
+      "sha256": "8c44f7e6fa22c6eb6d81c97c99533320935d82a1976252b7162a27cec44c3165",
+      "bytes": 1168
+    },
+    "manual/resources.csv": {
+      "sha256": "4b33e8053d96d7c1bd30575f871ab92a19dcb386a55e34a02948875448b86170",
+      "bytes": 1954
+    },
+    "manual/rules.csv": {
+      "sha256": "92be02ac1b582dd6791d6a99966ba3776aaafbe23e2d3443c7c118a5439f79c9",
+      "bytes": 1370
+    },
+    "manual/skills.csv": {
+      "sha256": "dd3505d946556f9f55181efc91d649dde2903acf277049c1be840b340be2e1f5",
+      "bytes": 3095
+    },
+    "sources/course_contents_excerpt.txt": {
+      "sha256": "f09212c77ee2a472ab3cc7dd539decb2d107fbcd9ad29ddb9c8ccd47e5f4eab0",
+      "bytes": 5030
+    },
+    "sources/sources.csv": {
+      "sha256": "dc6e596c0ffc916a498193058d1dcce4fe6d1cfe8cf9ba8296218226712cd17d",
+      "bytes": 310
+    }
+  }
+}

@@ -1,0 +1,4 @@
+id,parent_id,parent_type,order,title,summary,source_url,retrieved_on,source_type,source_locator,entry_method
+nptel-intro-ml-w00,nptel-intro-ml,resource,0,Week 0,"Probability, linear algebra and convex optimisation refresher",https://archive.nptel.ac.in/content/syllabus_pdf/106106139.pdf,2026-11-10,open-licence,"NPTEL syllabus PDF, weekly plan",manual-transcription
+nptel-intro-ml-w01,nptel-intro-ml,resource,1,Week 1,"Statistical decision theory; regression, classification, bias-variance",https://archive.nptel.ac.in/content/syllabus_pdf/106106139.pdf,2026-11-10,open-licence,"NPTEL syllabus PDF, weekly plan",manual-transcription
+nptel-intro-ml-w02,nptel-intro-ml,resource,2,Week 2,"Linear regression, subset selection, shrinkage, PCR and PLS",https://archive.nptel.ac.in/content/syllabus_pdf/106106139.pdf,2026-11-10,open-licence,"NPTEL syllabus PDF, weekly plan",manual-transcription

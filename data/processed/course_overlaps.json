@@ -1,0 +1,122 @@
+[
+  {
+    "course": "DSL201",
+    "other": "MAL100",
+    "percent": 10,
+    "other_in_catalogue": true,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.96; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL201",
+    "other": "MAL201",
+    "percent": 10,
+    "other_in_catalogue": false,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.96; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL501",
+    "other": "DSL250",
+    "percent": 10,
+    "other_in_catalogue": false,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.98; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL502",
+    "other": "MAL403",
+    "percent": 35,
+    "other_in_catalogue": true,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.98; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL502",
+    "other": "DSL201",
+    "percent": 60,
+    "other_in_catalogue": true,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.98; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL502",
+    "other": "MAL401",
+    "percent": 30,
+    "other_in_catalogue": false,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.98; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL504",
+    "other": "DS504",
+    "percent": 100,
+    "other_in_catalogue": false,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.99; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL601",
+    "other": "DS501",
+    "percent": 100,
+    "other_in_catalogue": false,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.101; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL605",
+    "other": "DS504",
+    "percent": 10,
+    "other_in_catalogue": false,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.102; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  },
+  {
+    "course": "DSL608",
+    "other": "CSL304",
+    "percent": 10,
+    "other_in_catalogue": true,
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "official",
+    "source_locator": "Courses of Study (Oct 2026), Course Contents PDF p.103; category/semester: Courses of Study (Oct 2026), BTech DSAI curriculum tables + semester plan (printed p.24-25)",
+    "entry_method": "pdf-extract",
+    "raw_file": "sources/iitbhilai_courses_of_study_oct2026.pdf"
+  }
+]

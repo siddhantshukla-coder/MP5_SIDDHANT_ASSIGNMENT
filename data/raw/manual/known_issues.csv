@@ -1,0 +1,4 @@
+action,code,target,context_course,reason,source_locator
+alias,DSP353,DSL353,,DSAI semester plan (sem VI) prints 'DSP353 Information Security 3-0-0-3'; the DSAI course table and Course Contents both list DSL353 Information Security 2-0-2-3. Treated as a misprint; Course Contents values are used.,CoS Oct 2026 printed p.24-25 vs Course Contents
+ignore_ref,IC100,,CSP352,"CSP352 prerequisite is printed as 'IC100', which is not a course code anywhere in the Courses of Study (probably CSL100). Edge dropped, original text kept in prerequisite_text; to confirm with DUGC.","CoS Oct 2026 Course Contents, CSP352"
+ignore_ref,CS550,,DSL608,"'CS550' (legacy code) does not exist in the Oct 2026 catalogue. The same OR-group already lists DSL501, so the requirement is still represented.","CoS Oct 2026 Course Contents, DSL608"

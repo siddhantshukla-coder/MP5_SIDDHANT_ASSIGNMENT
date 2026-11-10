@@ -1,0 +1,13 @@
+course,skill,depth,source_url,retrieved_on,source_type,source_locator,entry_method
+MAL100,calculus,working,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+MAL403,probability-statistics,working,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+MAL403,statistical-inference,intro,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL201,linear-algebra,working,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL201,probability-statistics,working,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL201,optimization,intro,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL201,unsupervised-learning,intro,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL251,exploratory-data-analysis,working,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL251,data-visualization,working,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL251,time-series,intro,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL251,supervised-learning,intro,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation
+DSL253,statistical-inference,working,https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs,2026-11-10,manual,Judged from the course's official syllabus (Course Contents),manual-curation

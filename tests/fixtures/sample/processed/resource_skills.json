@@ -1,0 +1,68 @@
+[
+  {
+    "resource": "nptel-intro-ml",
+    "skill": "supervised-learning",
+    "level": "working",
+    "source_url": "https://archive.nptel.ac.in/content/syllabus_pdf/106106139.pdf",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Mapped from the resource's syllabus/description",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/resource_skills.csv"
+  },
+  {
+    "resource": "nptel-intro-ml",
+    "skill": "unsupervised-learning",
+    "level": "working",
+    "source_url": "https://archive.nptel.ac.in/content/syllabus_pdf/106106139.pdf",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Mapped from the resource's syllabus/description",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/resource_skills.csv"
+  },
+  {
+    "resource": "nptel-prob-stats",
+    "skill": "probability-statistics",
+    "level": "working",
+    "source_url": "https://archive.nptel.ac.in/content/syllabus_pdf/111105090.pdf",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Mapped from the resource's syllabus/description",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/resource_skills.csv"
+  },
+  {
+    "resource": "nptel-prob-stats",
+    "skill": "statistical-inference",
+    "level": "working",
+    "source_url": "https://archive.nptel.ac.in/content/syllabus_pdf/111105090.pdf",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Mapped from the resource's syllabus/description",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/resource_skills.csv"
+  },
+  {
+    "resource": "openintro-stats",
+    "skill": "statistical-inference",
+    "level": "intro",
+    "source_url": "https://openintro.org/license",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Mapped from the resource's syllabus/description",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/resource_skills.csv"
+  },
+  {
+    "resource": "openintro-stats",
+    "skill": "probability-statistics",
+    "level": "intro",
+    "source_url": "https://openintro.org/license",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Mapped from the resource's syllabus/description",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/resource_skills.csv"
+  }
+]

@@ -1,0 +1,1 @@
+Deliberately broken copy of the sample. Injected faults: DSL253 prerequisite points to a missing course (MAL999); MAL100 <-> MAL403 prerequisite cycle; duplicate DSL201 row; non-numeric credits '3-0-0-three' (DSL999); a rule with no source_url. `python run_pipeline.py --raw tests/fixtures/broken/raw` must exit 1.

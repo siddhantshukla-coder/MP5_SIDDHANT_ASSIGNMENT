@@ -1,0 +1,218 @@
+{
+  "pipeline_version": "1.0.0",
+  "counts": {
+    "courses": 5,
+    "prerequisites": 3,
+    "course_overlaps": 2,
+    "skills": 13,
+    "course_skills": 12,
+    "rules": 4,
+    "resources": 3,
+    "resource_skills": 6,
+    "modules": 30,
+    "chunks": 18
+  },
+  "fill_rate_pct": {
+    "courses": {
+      "code": 100.0,
+      "title": 100.0,
+      "dept": 100.0,
+      "discipline": 100.0,
+      "credits": 100.0,
+      "ltp": 100.0,
+      "semester_numbers": 100.0,
+      "term": 100.0,
+      "category": 100.0,
+      "course_type": 100.0,
+      "mode": 100.0,
+      "level": 100.0,
+      "objectives": 0.0,
+      "syllabus": 100.0,
+      "prerequisite_text": 100.0,
+      "overlap_text": 100.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "prerequisites": {
+      "course": 100.0,
+      "requires": 100.0,
+      "kind": 100.0,
+      "alt_group": 100.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "course_overlaps": {
+      "course": 100.0,
+      "other": 100.0,
+      "percent": 100.0,
+      "other_in_catalogue": 100.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "skills": {
+      "id": 100.0,
+      "name": 100.0,
+      "level": 100.0,
+      "parent_skill": 76.9,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "course_skills": {
+      "course": 100.0,
+      "skill": 100.0,
+      "depth": 100.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "rules": {
+      "id": 100.0,
+      "category": 100.0,
+      "text": 100.0,
+      "numeric_limit": 75.0,
+      "unit": 75.0,
+      "comparator": 75.0,
+      "applies_to": 100.0,
+      "notes": 0.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "resources": {
+      "id": 100.0,
+      "title": 100.0,
+      "provider": 100.0,
+      "licence": 100.0,
+      "licence_url": 100.0,
+      "format": 100.0,
+      "duration_hours": 100.0,
+      "duration_basis": 100.0,
+      "url": 100.0,
+      "description": 100.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "resource_skills": {
+      "resource": 100.0,
+      "skill": 100.0,
+      "level": 100.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    },
+    "modules": {
+      "id": 100.0,
+      "parent_id": 100.0,
+      "parent_type": 100.0,
+      "order": 100.0,
+      "title": 100.0,
+      "summary": 100.0,
+      "source_url": 100.0,
+      "retrieved_on": 100.0,
+      "source_type": 100.0,
+      "source_locator": 100.0,
+      "entry_method": 100.0,
+      "raw_file": 100.0
+    }
+  },
+  "chunk_types": {
+    "course_overview": 5,
+    "resource_description": 3,
+    "resource_modules": 1,
+    "rule": 4,
+    "syllabus": 5
+  },
+  "raw_inputs": {
+    "manual/course_skills.csv": {
+      "sha256": "ab345031677516d1e0d5f47348669c15fc728b1f494bb45abf8feca31c463ff4",
+      "bytes": 2400
+    },
+    "manual/disciplines.csv": {
+      "sha256": "c212cf11d75e059743293118f8d68871a7c8aee6fa03983ec29165c90e3af0e5",
+      "bytes": 2401
+    },
+    "manual/modules.csv": {
+      "sha256": "c976e3cdbe9372ca998b0e9205ab09ea029bc999ceb86003dbfd5a1e0d00bf3d",
+      "bytes": 894
+    },
+    "manual/programme_courses.csv": {
+      "sha256": "fd4e775c97f81488c897ba3cdf8f02f5a9ae2909f7e0d6745a7cffb62fa8d80a",
+      "bytes": 1257
+    },
+    "manual/resource_skills.csv": {
+      "sha256": "8c44f7e6fa22c6eb6d81c97c99533320935d82a1976252b7162a27cec44c3165",
+      "bytes": 1168
+    },
+    "manual/resources.csv": {
+      "sha256": "4b33e8053d96d7c1bd30575f871ab92a19dcb386a55e34a02948875448b86170",
+      "bytes": 1954
+    },
+    "manual/rules.csv": {
+      "sha256": "f1a3ff1b3855b1b9d2b75372c232972f55fea12704d89ba2774ac50b73ce0571",
+      "bytes": 1433
+    },
+    "manual/skills.csv": {
+      "sha256": "dd3505d946556f9f55181efc91d649dde2903acf277049c1be840b340be2e1f5",
+      "bytes": 3095
+    },
+    "sources/course_contents_excerpt.txt": {
+      "sha256": "61fea0328901178f2039c439037abcde2622130eb90a78f100d4b0cc4bf91e52",
+      "bytes": 5028
+    },
+    "sources/sources.csv": {
+      "sha256": "dc6e596c0ffc916a498193058d1dcce4fe6d1cfe8cf9ba8296218226712cd17d",
+      "bytes": 310
+    }
+  },
+  "outputs": {
+    "chunks.jsonl": "69e5834f36097e1c73cd51790d6bf2530ca8a4821262dac23d3145244477f47f",
+    "course_overlaps.csv": "ec864662edcdc964a16015c36ed2688d2307b2a02cd8bc695da9f04527d80d30",
+    "course_overlaps.json": "b74b900ce3eccbd195e07825de3238414541200391a0c8d8021f254e9adf4e3b",
+    "course_skills.csv": "e5c45a789296a627bac72137759941f5077e04cc532849b2bbed673e25bef656",
+    "course_skills.json": "76a28694499c95e5f3ec8d3a9674559ae73482574f687fc6384f06b55b225c3c",
+    "courses.csv": "c0174a351db23a4983101a175387942c148c19842a4fc3281de32488f5945f89",
+    "courses.json": "2e805f49a61a67da8cc649a0d4994ee085e6561e686889a67e3caea9df6fa19d",
+    "modules.csv": "71aef15d9f58adc6cd84c426d9f4dcbd124a76192394bce969f411d4877d23e4",
+    "modules.json": "e521b7b896a111e67e4938ab0c5e21371f6620f4364c95cecc1bbedb85ea65a5",
+    "prerequisites.csv": "5c2c353dd86250e6e34769f1238349d97868b8b289f21064fd8e7bdec39642d5",
+    "prerequisites.json": "3d585a79344755641cdeb93d9ff67cceeab91efc07f6d6371725b323e91e0429",
+    "resource_skills.csv": "3eda07aa9969ba375afa35dde0c56e4c567f0892a4af0df67d694aa89d608fb6",
+    "resource_skills.json": "cfb96b36c9b337102e064af752e91144015bdb3a4613255f2ed49d2dd501056b",
+    "resources.csv": "81058d1be0cbf0a2028f29d7a78ca7c47fb253a41211dc0bd48680ebfce8cef1",
+    "resources.json": "2076bfbf0bc23950710f370cefabcbad37ae63227e4e69e9f0599936a124c1b3",
+    "rules.csv": "72e246c5bae53e995ae6bb5b743b81215cff3d2410d10bd5d805f243fe93635c",
+    "rules.json": "8a82041f30502acc0f88dbc53a06c1b15db42f7f7a5821ce5fd08aac27764586",
+    "skills.csv": "9919139fa6ac7f8241575fb131357dc8c09c7ebe838e64ba46937764dc2288dd",
+    "skills.json": "a7e2912d62c80ed5376cec3e2ed06c6a06e29ab2bc43da38878f32275c58db7b",
+    "validation_report.json": "14d7d2bbc49383569607e7d4ee74a7e207cd60c35102f4e9255cc1023c7de74c"
+  }
+}

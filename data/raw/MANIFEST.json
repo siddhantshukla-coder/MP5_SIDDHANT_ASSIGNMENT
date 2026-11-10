@@ -1,0 +1,56 @@
+{
+  "files": {
+    "manual/course_skills.csv": {
+      "sha256": "1911d1db84b0702c2077c2edefd6b2e4194cb58d08e869d0e9b20d27484b1bd7",
+      "bytes": 8361
+    },
+    "manual/disciplines.csv": {
+      "sha256": "c212cf11d75e059743293118f8d68871a7c8aee6fa03983ec29165c90e3af0e5",
+      "bytes": 2401
+    },
+    "manual/known_issues.csv": {
+      "sha256": "863e5149563c0aed3fce6aafff8faef5fcf2a456d8fcbab735aae55543bbd349",
+      "bytes": 824
+    },
+    "manual/modules.csv": {
+      "sha256": "21a190b9a56b51bcfbd6987714dbec461cab359523e8e0cc3312920bb0584694",
+      "bytes": 11457
+    },
+    "manual/programme_courses.csv": {
+      "sha256": "0e131e52b6b7f0d05186db108372122eb87606a3c4d39c322fa097751e84da09",
+      "bytes": 8234
+    },
+    "manual/resource_skills.csv": {
+      "sha256": "84e252a95803e1fd59e76afa70487d5d52bca751e31f1144b4b53421db909cca",
+      "bytes": 9694
+    },
+    "manual/resources.csv": {
+      "sha256": "12ae14ed5996ef90c51b4c4164a5e5e520544585d6076c474d9f485df0ba70e1",
+      "bytes": 20368
+    },
+    "manual/rules.csv": {
+      "sha256": "5ef4c83669cd54c36643cea97320d229170b73ab8e59070ee968c55bcb796732",
+      "bytes": 9340
+    },
+    "manual/skills.csv": {
+      "sha256": "77a61e0f1e8fdea2fa5acb6417571cb68d8813e241472ff1d30c2e306b1ee43e",
+      "bytes": 8955
+    },
+    "sources/iitbhilai_courses_of_study_oct2026.pdf": {
+      "sha256": "a2e622db6ad7ec54067c29577934641901b21f6c916e9b11603ba97c16501f9d",
+      "bytes": 2402620
+    },
+    "sources/iitbhilai_students_handbook_jul2023.pdf": {
+      "sha256": "0961eafc05c23a981ce939aee156d74718d1b98b6851018401a98d7ab018e600",
+      "bytes": 542198
+    },
+    "sources/iitbhilai_ug_manual.pdf": {
+      "sha256": "9431671e504bbf7e4d6d7771d50e9fa7e64d9c5d13017dd55481cece528bf078",
+      "bytes": 380035
+    },
+    "sources/sources.csv": {
+      "sha256": "3f4ec37640cbb3abe034bec2bd9f5901811273d3f3dbdba679397901dbc78220",
+      "bytes": 1024
+    }
+  }
+}

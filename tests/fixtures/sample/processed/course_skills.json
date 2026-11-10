@@ -1,0 +1,134 @@
+[
+  {
+    "course": "MAL100",
+    "skill": "calculus",
+    "depth": "working",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "MAL403",
+    "skill": "probability-statistics",
+    "depth": "working",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "MAL403",
+    "skill": "statistical-inference",
+    "depth": "intro",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL201",
+    "skill": "linear-algebra",
+    "depth": "working",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL201",
+    "skill": "probability-statistics",
+    "depth": "working",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL201",
+    "skill": "optimization",
+    "depth": "intro",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL201",
+    "skill": "unsupervised-learning",
+    "depth": "intro",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL251",
+    "skill": "exploratory-data-analysis",
+    "depth": "working",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL251",
+    "skill": "data-visualization",
+    "depth": "working",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL251",
+    "skill": "time-series",
+    "depth": "intro",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL251",
+    "skill": "supervised-learning",
+    "depth": "intro",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  },
+  {
+    "course": "DSL253",
+    "skill": "statistical-inference",
+    "depth": "working",
+    "source_url": "https://www.iitbhilai.ac.in/index.php?pid=new_schedule_programs",
+    "retrieved_on": "2026-11-10",
+    "source_type": "manual",
+    "source_locator": "Judged from the course's official syllabus (Course Contents)",
+    "entry_method": "manual-curation",
+    "raw_file": "manual/course_skills.csv"
+  }
+]
